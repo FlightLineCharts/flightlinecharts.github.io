@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# FlightLine(Roblox) Chart & ATC Communication Guides
 
-You can use the [editor on GitHub](https://github.com/FlightLineCharts/flightlinecharts.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Flightline logo](https://t0.rbxcdn.com/8c8d2ba4a8cf3adce66465e5a6f1ecb2)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### First of all...
+The following charts were created by stevenoh0908, to help enjoying flights and ATC communication.
+Although I haven't received any official recognition from the developer yet,
+But I'm sure that you can improve your level of ATC communication, which leads toward more realistic flight simulator.
+  Thank you, hope you have a nice flight today.
 
-### Markdown
+<details>
+  <summary>TOPHON BRIDGE INTL.(JTPH)</summary>
+  <img src="https://i.ibb.co/D4zvKG2/2.png" alt="JTPH Chart PNG">
+  <p><a href="https://github.com/xenoseven7/xenoseven7.github.io/raw/master/files/JTPH_AD%20Chart.pdf" target="_blank">AD Chart PDF</a></p>
+</details>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FlightLineCharts/flightlinecharts.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<details>
+  <summary>WELLINSAUL SQUARE(JSLL)</summary>
+  <img src="https://i.ibb.co/D4zvKG2/2.png" alt="JSLL Chart PNG">
+  <p><a href="https://github.com/xenoseven7/xenoseven7.github.io/raw/master/files/JSLL_AD%20Chart.pdf" target="_blank">AD Chart PDF</a></p>
+</details>
+<br>
+If you have any question or suggestion, please let me know by emailing xenoseven7@gmail.com.
