@@ -1,26 +1,14 @@
 ![FlightlineCharts Promotion logo](https://i.ibb.co/Gn9YdhB/Flight-Line-Charts.png)
 
 ### Menu
-[CHARTS](charts.md)
-[RESOURCES](resoruces.md)
-[GUIDES](guides.md)
+[CHARTS](charts.md) | [RESOURCES](resoruces.md) | [GUIDES](guides.md)
 
-### First of all...
-The following charts were created by stevenoh0908, to help enjoying flights and ATC communication.
-Although I haven't received any official recognition from the developer yet,
-But I'm sure that you can improve your level of ATC communication, which leads toward more realistic flight simulator.
-  Thank you, hope you have a nice flight today.
+### Welcome to FLIGHTLINESCharts!
+'FLIGHTLINESCharts' is fan-made online service for roblox flight simulator, [FLIGHTLINE](https://www.roblox.com/games/101451125/FLIGHTLINE-Open-Beta?refPageId=0dd0a53f-77b9-4730-8731-cc3a23dcbda7#) developed by JayManLive.
+Although We haven't recieved any official recognition from the JayManLive, the developer yet,
+But We're sure that you can improve your level of ATC communication, which leads toward more realistic flight simulator.
+Thank you, hope you have a nice flight today.
 
-<details>
-  <summary>TOPHON BRIDGE INTL.(JTPH)</summary>
-  <img src="https://i.ibb.co/D4zvKG2/2.png" alt="JTPH Chart PNG">
-  <p><a href="https://github.com/xenoseven7/xenoseven7.github.io/raw/master/files/JTPH_AD%20Chart.pdf" target="_blank">AD Chart PDF</a></p>
-</details>
-
-<details>
-  <summary>WELLINSAUL SQUARE(JSLL)</summary>
-  <img src="https://i.ibb.co/D4zvKG2/2.png" alt="JSLL Chart PNG">
-  <p><a href="https://github.com/xenoseven7/xenoseven7.github.io/raw/master/files/JSLL_AD%20Chart.pdf" target="_blank">AD Chart PDF</a></p>
-</details>
-<br>
 If you have any question or suggestion, please let me know by emailing xenoseven7@gmail.com.
+
+ⓒ FLIGHTLINECharts, 2020.
