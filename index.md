@@ -1,6 +1,9 @@
-# FlightLine(Roblox) Chart & ATC Communication Guides
-
 ![FlightlineCharts Promotion logo](https://i.ibb.co/Gn9YdhB/Flight-Line-Charts.png)
+
+### Menu
+[CHARTS](charts.md)
+[RESOURCES](resoruces.md)
+[GUIDES](guides.md)
 
 ### First of all...
 The following charts were created by stevenoh0908, to help enjoying flights and ATC communication.
