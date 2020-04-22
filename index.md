@@ -1,7 +1,7 @@
 ![FlightlineCharts Promotion logo](https://i.ibb.co/Gn9YdhB/Flight-Line-Charts.png)
 
 ### Menu
-[CHARTS](charts.md) | [RESOURCES](resoruces.md) | [GUIDES](guides.md)
+[CHARTS](charts.md) | [RESOURCES](resources.md) | [GUIDES](guides.md)
 
 ### Welcome to FLIGHTLINESCharts!
 'FLIGHTLINESCharts' is fan-made online service for roblox flight simulator, [FLIGHTLINE](https://www.roblox.com/games/101451125/FLIGHTLINE-Open-Beta?refPageId=0dd0a53f-77b9-4730-8731-cc3a23dcbda7#) developed by JayManLive.
