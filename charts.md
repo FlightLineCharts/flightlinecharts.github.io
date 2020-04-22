@@ -2,6 +2,7 @@
 
 # Charts
 Those following charts of the airport was created by stevenoh0908. CC-BY-NC. 3.0.
+If you need to find one, Press Ctrl+F.
 
 <details>
   <summary>TOPHON BRIDGE INTL.(JTPH)</summary>
