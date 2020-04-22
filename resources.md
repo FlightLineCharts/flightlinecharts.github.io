@@ -16,7 +16,7 @@ It might be some background sounds, or something else. Hope you can enjoy them.
 </details>
 
 <details>
-  <summary>Air Xenon Boarding Pass Example and PPT Design Sketch</summary>
+  <summary>Air Xenon Boarding Pass Example and PPT Design Sketch - Design Based on Korean Air's Boarding Pass</summary>
   <img src="https://i.ibb.co/GpzpVSX/Boarding-Pass-John-Doe-AXE2206-18-APR20-JTPH-JSLL-09-T30-12-E.png" alt="Air Xenon Boarding Pass Example">
   <p><a href="https://github.com/FlightLineCharts/flightlinecharts.github.io/raw/master/files/Boarding%20Pass%20Template.pptx" target="_blank">Boarding Pass Template PPTX</a></p>
 </details>
