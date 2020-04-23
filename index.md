@@ -9,6 +9,6 @@ Although We haven't recieved any official recognition from the JayManLive, the d
 But We're sure that you can improve your level of ATC communication, which leads toward more realistic flight simulator.
 Thank you, hope you have a nice flight today.
 
-If you have any question or suggestion, please let me know by emailing xenoseven7@gmail.com.
+If you have any question or suggestion, please let me know by emailing xenoseven7@gmail.com or leave me DM on [twitter](https://twitter.com/xenoseven7).
 
 ⓒ FLIGHTLINECharts, 2020.
