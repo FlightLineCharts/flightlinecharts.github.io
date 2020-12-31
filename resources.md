@@ -10,7 +10,7 @@ It might be some background sounds, or something else. Hope you can enjoy them.
 </details>
 
 <details>
-  <summary>Air Xenon(Virtual Airline based in South Korea) PR Sounds</summary>
+  <summary>Onnuri Air(Virtual Airline based in South Korea) PR Sounds</summary>
   <img src="https://github.com/FlightLineCharts/flightlinecharts.github.io/raw/master/images/onnuri_air_logo.png" alt="Onnuri Air Logo">
   <p><a href="https://github.com/FlightLineCharts/flightlinecharts.github.io/raw/master/files/Onnuri_Air_PR_Sounds.zip" target="_blank">Onnuri Air PR Sounds ZIP (KOR/ENG Ver.)</a></p>
 </details>
